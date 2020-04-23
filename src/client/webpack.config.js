@@ -1,6 +1,6 @@
-const path = require('path');
-const webpack = requite('webpack');
+const path = require('path')
+const webpack = require('webpack')
 
-module.exports {
-
+module.exports = {
+    entry: './src/client/index.js'
 }
